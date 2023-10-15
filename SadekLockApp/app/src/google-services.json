@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "478955124475",
+    "firebase_url": "https://sadeklock-default-rtdb.firebaseio.com",
+    "project_id": "sadeklock",
+    "storage_bucket": "sadeklock.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478955124475:android:ab7c10089714ad8bdbe25e",
+        "android_client_info": {
+          "package_name": "com.example.sadeklock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478955124475-gngrjt26rgqqv9b56btdfpmvh3kcdeqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY9dE-4P_tzKjFnlpIAMsi9gXAt3tpAv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478955124475-gngrjt26rgqqv9b56btdfpmvh3kcdeqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478955124475:android:3d044c93d31d515ddbe25e",
+        "android_client_info": {
+          "package_name": "com.example.sadeklockapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478955124475-gngrjt26rgqqv9b56btdfpmvh3kcdeqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY9dE-4P_tzKjFnlpIAMsi9gXAt3tpAv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478955124475-gngrjt26rgqqv9b56btdfpmvh3kcdeqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478955124475:android:a698e4e931982ed8dbe25e",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478955124475-gngrjt26rgqqv9b56btdfpmvh3kcdeqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY9dE-4P_tzKjFnlpIAMsi9gXAt3tpAv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478955124475-gngrjt26rgqqv9b56btdfpmvh3kcdeqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
